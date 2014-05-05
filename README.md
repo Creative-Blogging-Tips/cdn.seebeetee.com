@@ -1,4 +1,4 @@
-cdn.seebeetee.com
+[CDN OF SeeBeeTee](http://cdn.seebeetee.com)
 =================
 
-Yep CDN of SeeBeeTee is here.
+Finally, CDN hosted on Github.
