@@ -18,13 +18,19 @@ h1 {
   }
 }
 
-div.links {
+footer div.links {
   text-align: center;
 }
 
-a {
-  border-bottom: 0.1em solid;
+footer div.links a {
   color: inherit;
   font-size: 0.8em;
   text-decoration: none;
+  -webkit-transition: 0.1s all ease-in-out;
+  -o-transition: 0.1s all ease-in-out;
+  transition: 0.1s all ease-in-out;
+}
+
+footer div.links a:hover {
+  border-bottom: 0.1em solid;
 }
