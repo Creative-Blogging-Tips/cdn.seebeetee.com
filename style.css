@@ -1,8 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(http://fonts.googleapis.com/css?family=Nunito);
 body {
   background: #00b2b3;
   color: #fff;
-  font-family: 'Dancing Script', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 1.55em;
   margin: 0 auto;
   max-width: 47em;
@@ -10,6 +10,7 @@ body {
 
 h1 {
   text-align: center;
+  font-weight: normal;
 }
 
 @media all and (max-width: 45em) {
