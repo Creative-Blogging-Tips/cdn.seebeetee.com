@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 1.07em;
+	font-family: Arial, sans-serif;
+	background: #fff;
+}
+h1#title {
+	background: #3f51b5;
+	color: #fff;
+	text-align: center;
+	font-size: 1.8em;
+	padding: 0.5em;
+}
+.description {
+	max-width: 36em;
+	margin: 0.5em auto !important;
+}
+.data-title {
+	text-align: center;
+	padding: 0.5em;
+	background: #5c6bc0;
+	color: #fff;
+}
+.data {
+	margin: 0.3em 0;
+	padding: 0 0.3em;
+}
+.note {
+	text-align: center;
+	font-style: italic;
+	margin: 0.3em;
+}
