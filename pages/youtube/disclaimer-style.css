@@ -4,11 +4,11 @@
 }
 body {
 	font-size: 1.07em;
-	font-family: Arial, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	background: #fff;
 }
 h1#title {
-	background: #3f51b5;
+	background: #2196f3;
 	color: #fff;
 	text-align: center;
 	font-size: 1.8em;
@@ -18,11 +18,21 @@ h1#title {
 	max-width: 36em;
 	margin: 0.5em auto !important;
 }
+.description a {
+	color: inherit;
+	border-bottom: 0.1em solid;
+	-webkit-transition: 0.1s all ease-in-out;
+	-o-transition: 0.1s all ease-in-out;
+	transition: 0.1s all ease-in-out;
+}
+.description a:hover {
+	border-bottom: none;
+}
 .data-title {
 	text-align: center;
 	padding: 0.5em;
-	background: #5c6bc0;
-	color: #fff;
+	background: #90caf9;
+	color: #0d47a1;
 }
 .data {
 	margin: 0.3em 0;
