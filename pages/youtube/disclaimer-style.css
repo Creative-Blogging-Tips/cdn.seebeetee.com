@@ -28,6 +28,7 @@ h1#title {
 }
 .description a:hover {
 	border-bottom: none;
+	color: #0d47a1;
 }
 .data-title {
 	text-align: center;
