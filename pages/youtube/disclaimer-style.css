@@ -17,6 +17,7 @@ h1#title {
 .description {
 	max-width: 36em;
 	margin: 0.5em auto !important;
+	text-align: justify;
 }
 .description a {
 	color: inherit;
