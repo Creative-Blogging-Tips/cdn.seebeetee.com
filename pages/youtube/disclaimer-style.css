@@ -20,10 +20,11 @@ h1#title {
 }
 .description a {
 	color: inherit;
+	text-decoration: none;
 	border-bottom: 0.1em solid;
-	-webkit-transition: 0.1s all ease-in-out;
-	-o-transition: 0.1s all ease-in-out;
-	transition: 0.1s all ease-in-out;
+	-webkit-transition: 0.2s all ease-in-out;
+	-o-transition: 0.2s all ease-in-out;
+	transition: 0.2s all ease-in-out;
 }
 .description a:hover {
 	border-bottom: none;
