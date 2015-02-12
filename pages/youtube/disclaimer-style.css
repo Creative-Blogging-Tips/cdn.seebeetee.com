@@ -26,6 +26,7 @@ h1#title {
 	-webkit-transition: 0.2s all ease-in-out;
 	-o-transition: 0.2s all ease-in-out;
 	transition: 0.2s all ease-in-out;
+	word-wrap: break-word;
 }
 .description a:hover {
 	border-bottom: none;
