@@ -26,7 +26,7 @@ footer div.links {
   animation: fadein 1s linear;
 }
 
-@keyframes(fadein) {
+@keyframes fadein {
   0% {
     opacity: 0;
   }
