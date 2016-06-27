@@ -7,6 +7,7 @@ body {
   font-size: 1.55em;
   margin: 0 auto;
   max-width: 47em;
+  transition: 0.6s all ease-in;
 }
 
 h1 {
